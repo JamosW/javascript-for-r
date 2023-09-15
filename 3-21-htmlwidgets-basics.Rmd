@@ -20,7 +20,7 @@ This is likely a section you will want to come back to at the end of this part a
 
 ## Candidate Libraries {#widgets-basics-candidates}
 
-Before going down the rabbit hole, let us explore the types of libraries you will work with; htmlwidgets' main clients so to speak. Below we look at some such popular libraries and briefly analyse how they work and what they have in common. This will significantly help readers conceptualise what trying to achieve in this chapter.
+Before going down the rabbit hole, let us explore the types of libraries you will work with; htmlwidgets' main clients so to speak. Below we look at some such popular libraries and briefly analyse how they work and what they have in common. This will significantly help readers conceptualise what we're trying to achieve in this chapter.
 
 ### Plotly.js {#widgets-basics-candidates-plotly}
 
